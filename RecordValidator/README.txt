@@ -21,7 +21,7 @@ validation done in processing the data.Good records are stored in HashMap.
 
 Output:
 
-OutPut file will be generated in out folder of project directory,it will have list of records that failed validation and cause of validation failure.
+OutPut file will be generated in log folder of project directory,it will have list of records that failed validation and cause of validation failure.
 
 
 
