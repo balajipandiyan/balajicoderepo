@@ -1,0 +1,9 @@
+Label=Duplicate_Transaction  112806 | Clothes for Richard de Vries
+Label=Duplicate_Transaction  112806 | Tickets from Richard Bakker
+Label=IncorrectEndBalance    167875 | Tickets from Erik de Vries
+Label=IncorrectEndBalance    130498 | Tickets for Peter Theuß
+Label=IncorrectEndBalance    179430 | Clothes for Vincent Bakker
+Label=IncorrectEndBalance    169639 | Tickets for Rik de Vries
+Label=IncorrectEndBalance    165102 | Tickets for Rik Theuß
+Label=IncorrectEndBalance    194261 | Clothes from Jan Bakker
+Label=IncorrectEndBalance    147674 | Subscription from Peter Dekker
