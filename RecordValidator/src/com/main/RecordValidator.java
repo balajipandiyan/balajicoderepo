@@ -35,7 +35,7 @@ public class RecordValidator {
 
             }
         }
-         recordsMap.values().stream().filter(rec-> (rec.getStartBalance()+rec.getMutation())== rec.getEndBalance()).collect(Collectors.toList()).forEach(record -> {
+         recordsMap.values().stream().filter(rec-> (rec.getStartBalance()+rec.getMutation())!= rec.getEndBalance()).collect(Collectors.toList()).forEach(record -> {
                      log.println("Label=IncorrectEndBalance    "+record.getTransId()+" | "+record.getDescription());
          }
          );
